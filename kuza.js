@@ -1,14 +1,14 @@
-/* Base Ori : ABILBOTZ
-Script Ori : ABILBOTZ
+/* Base Ori : SALEHBOTZ
+Script Ori : SALEHBOTZ
 Nama Base : KuzaBase
 Nama Script : KuzaBase
-Recode : ABILBOTZ
-Youtube Author : ABILBOTZ
-Youtube Recode : ABILBOTZ
+Recode : SALEHBOTZ
+Youtube Author : SALEHBOTZ
+Youtube Recode : SALEHBOTZ
 Nama Script Recode : KuzaBase
 Versi Script Ori : Masih Base -_-
 Versi Script Recode : Masih Base -_-
-Created By ABILBOTZ
+Created By SALEHBOTZ
 */
 
 /* Info Maszeh
